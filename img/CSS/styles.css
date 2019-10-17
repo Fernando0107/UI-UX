@@ -1,0 +1,68 @@
+.test{
+    background: linear-gradient(162.83deg, #2561F4 6.03%, #48D3F2 97.94%, #628CF9 97.94%);
+    left: 0px;
+    top: 0px;
+    position: relative;
+    padding: 1%;
+}   
+
+.test2{
+    position: relative;
+    padding: 1%;
+
+}
+
+.test3 {
+    position: relative;
+    padding: 2%;
+
+}
+
+.shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cl{
+    width: 45%;
+    display: flex;
+}
+
+.heading{
+    /* Popular Solutions */
+
+    position: absolute;
+    width: 204px;
+    height: 29px;
+    left: 16px;
+    top: 32px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Colors/LightBlue */
+
+    background: #EAF3FE;
+}
+
+.img{
+    width: 40px;
+    border-radius: 16px;
+    margin-right: 10px;
+}
+
+.reducefontsize {
+    font-style: normal;
+    font-size: 87% ! important;
+}
+
+.sub_img{
+    width: 10px;
+    margin-right: 5px;
+}
