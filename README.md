@@ -1,2 +1,2 @@
-# UI-UX-
+# UI-UX
 UI/UX project.
